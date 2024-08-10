@@ -6,6 +6,8 @@ spring.jpa.show-sql=true
 spring.jpa.hibernate.ddl-auto=create-drop
 spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5Dialect
 
-
-#trade.key=Payment-Secret
-
+<<<<<<< HEAD
+#trade.key=Payment
+=======
+trade.key=Payment-Secret
+>>>>>>> c5e77bf95d154d66b9cf325eadc5caf213bf8fba
